@@ -27,7 +27,7 @@ def main():
 	pipe.fuse_lora()
 
 	#* %%%% LOAD PROMPTS %%%%
-	prompt_filename = "Bot_prompts2.txt"
+	prompt_filename = "Bot_prompts.txt"
 
 	sentences = []
 	counter = 0

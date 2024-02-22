@@ -336,7 +336,7 @@ def main(clases_old, size_old):
 
     # Image directory
     #directorio = 'Stable_images/' 
-    directorio = 'Pruebas_buenas/' #! Modified for the test
+    directorio = 'Samples/' #! Modified for the test
 
     masks =[]
     newSolution = False
